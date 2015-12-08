@@ -70,6 +70,10 @@ body {
     transform: translateY(-50%);
 }
 
+.title a {
+    text-decoration: none;
+}
+
 .youtube-container {
     display: none;
 }
